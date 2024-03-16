@@ -4,20 +4,21 @@ This is a simple calculator web application built using HTML, CSS, and JavaScrip
 It allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
 <br>
 FEATURES:
-Addition (+)
-Subtraction (-)
-Multiplication (*)
-Division (/)
-Decimal Point (.)
-All Clear (AC)
-Delete (DE)
 <br>
-PERFORMING CALCULATIONS:
-Click on the number buttons to input numbers.
-Click on the operator buttons (+, -, *, /) to select the desired arithmetic operation.
-Click on the "=" button to display the result of the calculation.
-To clear the display, click on the "AC" button.
-To delete the last digit entered, click on the "DE" button.
-<br><br>
+Addition (+) <br>
+Subtraction (-) <br>
+Multiplication (*) <br>
+Division (/) <br>
+Decimal Point (.) <br>
+All Clear (AC) <br>
+Delete (DE) <br>
+<br>
+PERFORMING CALCULATIONS:<br>
+Click on the number buttons to input numbers. <br>
+Click on the operator buttons (+, -, *, /) to select the desired arithmetic operation. <br>
+Click on the "=" button to display the result of the calculation. <br>
+To clear the display, click on the "AC" button. <br>
+To delete the last digit entered, click on the "DE" button. <br>
+<br><br><br><br>
 Author - Nimra Aamir
 
